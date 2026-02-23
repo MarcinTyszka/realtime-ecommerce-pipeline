@@ -1,5 +1,7 @@
 # Real-Time E-commerce Clickstream Pipeline
 
+![Dashboard Screenshot](screenshot.png)
+
 An end-to-end Data Engineering project that simulates, processes, and visualizes real-time user behavior on an e-commerce platform. 
 
 This pipeline demonstrates the transition from traditional batch processing to a real-time streaming architecture using industry-standard Big Data tools.
@@ -46,4 +48,5 @@ You can launch the entire infrastructure, background processes, bucket configura
 
 ```bash
 python run_project.py
+
 ```
