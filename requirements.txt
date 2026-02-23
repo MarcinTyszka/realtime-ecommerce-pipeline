@@ -1,0 +1,7 @@
+confluent-kafka
+faker==19.3.0
+pandas
+s3fs
+pyarrow
+plotly
+streamlit
